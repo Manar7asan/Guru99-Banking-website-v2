@@ -7,22 +7,31 @@ The primary focus is to ensure functionality, usability, and reliability by exec
 
 🎯 Objective
 
-Validate core functionalities of the application.
+Verify newly added features and enhancements.
 
-Identify and report bugs effectively.
+Ensure existing functionalities remain unaffected (Regression Testing).
 
-Ensure a seamless user experience through systematic manual testing.
+Identify and document bugs effectively with detailed reports.
+
+Validate performance, usability, and responsiveness improvements.
+
 
 🛠️ Testing Scope
 
-Functional Testing: Verify all core features meet requirements.
+Functional Testing: Validate all new and existing features.
 
-UI/UX Testing: Assess user interface for design consistency and ease of use.
+Regression Testing: Ensure changes haven't introduced new defects.
 
-Regression Testing: Ensure recent changes haven't affected existing functionalities.
+UI/UX Testing: Evaluate design consistency and user-friendliness.
 
-Bug Reporting: Log issues with detailed descriptions, steps to reproduce, and severity levels.
+Compatibility Testing: Ensure application performance across various devices and browsers.
+
+Bug Reporting: Comprehensive issue tracking and reporting.
+
 
 📄 Artifacts Included
 
-📊 Test Plan: Outlines testing objectives, scope, strategy, and schedule. 📝 Test Cases: Detailed scenarios with steps, expected results, and actual results. 🐞 Bug Reports: Documented defects with severity, priority, and reproduction steps.
+Test Plan: Strategy, objectives, and testing scope.
+ Test Cases: Structured scenarios with clear steps and validations.
+ Bug Reports: Detailed issue documentation with reproduction steps.
+Test Summary Report: Insights and findings from testing activities.
